@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/Devopsad4/jio.git'
+                git 'https://github.com/Devopsad4/mult.git'
             }
         }
         stage('Continuous Build')
